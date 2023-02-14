@@ -28,6 +28,17 @@ body {
     align-items: center;
 }
 
+.description-wrapper {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.description-wrapper p {
+    font-size: 16px;
+}
+
 .header-container {
     display: flex;
     justify-content: center;
